@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routes import AppRoute
+from route import AppRoute
 
 app = FastAPI()
 
